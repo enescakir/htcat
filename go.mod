@@ -1,3 +1,3 @@
-module github.com/htcat/htcat
+module htcat
 
 go 1.25.0
